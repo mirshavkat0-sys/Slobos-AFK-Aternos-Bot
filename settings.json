@@ -7,8 +7,8 @@
   },
   "server": {
 
-    "ip": "harbayellworld.aternos.me
-",
+    "ip": "harbayellworld.aternos.me",
+
     "port": 14990,
     "version": "26.1.1",
     "try-creative": false
